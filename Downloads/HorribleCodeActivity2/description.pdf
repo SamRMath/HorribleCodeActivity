@@ -1,0 +1,12 @@
+For our submission, we made a basic calulator with addition, subtraction, multiplication, and division functions - all of which are used inside the actual calculator function.
+For our good code version:
+We implemented the KISS principle and kept our code as simple as possible.
+We implemented the DRY code principle by ensuring our code doesn't repeat parts unneccesarily.
+We documented our code using short descriptions of each function, while avoiding too detailed of an explanation when the viewer should be able to tell what's happening.
+We kept our code as clean as possible.
+
+For the bad code version:
+We overcomplicated some parts of the code, where we didn't need to, violating the KISS principle.
+We repeated some variables in places they wouldn't necessarily need to be, including using an input variable when we were getting a user's input.
+We documented our code in ways that were unneccessary and crude.
+we did not keep our code very clean in this version.
